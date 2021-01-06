@@ -1,6 +1,9 @@
 import React from 'react'
 import './Silabus.css'
 
+/**
+ * Silabus.js merupakan Component yang menangani konten Silabus
+ */
 const Silabus = ()=>{
     return(
         <div >
